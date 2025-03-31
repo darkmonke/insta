@@ -323,3 +323,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,python,django
+
+image/
+# image라는 폴더를 git으로 관리하지 않겠다는 의미
